@@ -1,0 +1,2 @@
+com/DefaultCompany/Headheavy/BuildConfig.java
+ com.DefaultCompany.Headheavy.BuildConfig
