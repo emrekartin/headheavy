@@ -1,4 +1,4 @@
-# headheavy
+# headheavy (not complete)
 
 This challenge platform game is made for fun and learning. not yet completed. In the game, the character is expected to bounce the ball with his head and shoot a basket, but there are obstacles in the area between them.
 Developed on Unity 2020.2.0f1.
