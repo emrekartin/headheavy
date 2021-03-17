@@ -11,6 +11,6 @@ public class MainMenu : MonoBehaviour {
 	}
 	public void ReturnChallengeScreen()
 	{
-		SceneManager.LoadScene(0);
+		SceneManager.LoadScene(1);
 	}
 }
