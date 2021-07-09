@@ -4,10 +4,10 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 using System;
-public class ground : MonoBehaviour
+public class Ground : MonoBehaviour
 {
     public GameObject hexagons;
-    static ground instance;
+    static Ground instance;
     private static GameObject playerInstance;
     private int currentPoint;
     private string text_point = "";

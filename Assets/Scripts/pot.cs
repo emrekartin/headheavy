@@ -4,7 +4,7 @@ using UnityEngine;
 using System;
 
 using UnityEngine.SceneManagement;
-public class pot : MonoBehaviour
+public class Pot : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     {
