@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace UnityLibrary
 {
-    public class dedadada : MonoBehaviour
+    public class Edges : MonoBehaviour
     {
         private Camera cam;
         private EdgeCollider2D edge;
